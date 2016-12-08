@@ -1,0 +1,142 @@
+---
+output: 
+  revealjs::revealjs_presentation:
+    reveal_options:
+      autoSlide: 20000
+---
+***
+<br>
+<h1 align="left">UP Pechakucha Night</h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h4 align="left">Kaz Sakamoto</h1>
+<h5 align="left">December 7, 2016</h5>
+<!-- Include jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<!-- Add class to img elements -->
+<script type="text/javascript">
+$(document).ready(function() {
+  $elms = $('p > img');
+  $elms.addClass('no-border');
+});
+</script>
+
+<!-- define no-border class -->
+<style>
+.no-border {
+  border: 0px !important;
+  box-shadow: 0 0 0 0 !important;
+}
+</style>
+
+
+## Climate Change... Huh??
+<br>
+![Wat?](http://i.giphy.com/3o85xFGjUBlUw4XEek.gif)
+
+
+## Climate Change Implications {data-background="http://www.theblackvault.com/documentarchive/wp-content/uploads/2015/03/8845010-stop-global-warming.jpg"}
+
+
+## Climate Informatics
+<br>
+<br>
+Climate informatics broadly refers to any research combining climate science with approaches from **statistics**, **machine learning** and **data mining**.
+
+<br>
+
+Climate science is a great place for **data science** because there is an abundance of **open data**, an **active community** of researchers working together.
+
+
+## Data Science
+![](images/Data_Science.png)
+
+## Linear Regression
+<br><br>
+![](images/regression.png)
+
+## Decision Trees
+![](images/Decision_Tree.png)
+
+##  {data-background="https://i.ytimg.com/vi/23VflsU3kZE/maxresdefault.jpg"}
+
+<br><br><br><br><br>
+<h1 align="right">Is... this our future?<h1>
+
+## Urban Planning Solutions
+<br><br>
+
+<h3 align="left">Green Transportation </h3>
+<h3 align="left">Infrastructure </h3>
+<h3 align="left">Energy Consumption </h3>
+<h3 align="left">Citizen Engagement </h3>
+
+## { data-background="https://cbsnewyork.files.wordpress.com/2013/07/citibike.jpg?w=1500"}
+
+## Gradient Boosting on Bike Usage
+<br><br>
+<h4 align="left">**Weak Learners** - predict at least slightly better than random</h4>
+<br>
+<h4 align="left">**Adaptive Boosting** - by sequentially adding weak learners you can solve more difficult problems</h4>
+<br>
+<h4 align="left">**Loss Function** - also known as cost function could be mean square error in regression, where loss can occur to randomness or the inability of the model to correctly predict value</h4>
+
+## Demand Forecasting
+<br> <br>
+*Creating predictive models can help make systems efficient and reliable*
+<br>
+
+##  {data-background="http://www.olisa.tv/wp-content/uploads/2016/11/3749.jpg"}
+<!-- https://www.researchgate.net/publication/224253154_Real_Time_Pothole_Detection_Using_Android_Smartphones_with_Accelerometers -->
+
+## Real-Time Pothole Detection
+<br><br>
+<h4 align="left">**Z-Thresh** - z-axis thresholds being exceeded </h4>
+<br>
+<h4 align="left">**Z-Diff** - taking the difference of two consecutive measurements for sudden changes</h4>
+<br>
+<h4 align="left">**STDEV(Z)** - measuring the standard deviation values above specific thresholds</h4>
+
+## Smart Sensors
+<br><br>
+*Utilizing technologies that already exist to solve issues*
+
+## {data-background="https://www.cis.upenn.edu/~jshi/video_urbanstreet.gif"}
+
+## Energy Efficient Elevators
+<br><br>
+<h4 align="left">Perceiving and understanding images with machines</h4>
+<br>
+<h4 align="left">**low-level** - little to no knowledge of image content(s)</h4>
+<br>
+<h4 align="left">**high-level** - AI methods to imitate human cognition of image content(s)</h4>
+
+## Computer Vision
+<br><br>
+*Giving machines eyes will allow more autonomous functions*
+
+## {data-background="http://www.crispen.org/images/tweets.jpg"}
+
+## Twitter Text Analysis
+<br><br>
+<h4 align="left">**Tokenization**  - Cutting corpus into distinct words</h4>
+<br>
+<h4 align="left">**Latent Semantic Indexing** - Will find important words that occur together</h4>
+<br>
+<h4 align="left">**Sentiment Analysis** - Positive or negative emotions in text/h4>
+
+## Natural Language Processing
+<br><br>
+*Machine language meeting human language to churn through text*
+
+## Yay!!!
+![](http://i.giphy.com/xNBcChLQt7s9a.gif)
+![](http://i.giphy.com/6IQ9o86ThLoGY.gif)
+![](http://i.giphy.com/5oGIdt1xapQ76.gif)
